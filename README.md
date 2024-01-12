@@ -1,3 +1,8 @@
+# kontaktHome proyekti
+
+## proyekt neden ibaretdir?
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,3 +16,4 @@
     <div></div>
 </body>
 </html>
+```
