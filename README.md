@@ -17,3 +17,6 @@
 </body>
 </html>
 ```
+
+
+etrafli melumat ucun (bu linke)[https://github.com] kecid edin
